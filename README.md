@@ -145,7 +145,7 @@ This project is open source and available for personal and educational use.
 
 ## Credits
 
-Created with ❤️ by OragonaiMusic Hub
+Istorya Ni Weewee ©
 
 ---
 
