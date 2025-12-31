@@ -1,12 +1,5 @@
-# Music files (users should add their own)
-*.mp3
-*.m4a
-*.wav
-*.flac
-*.ogg
-
-# Keep the music folder but not its contents
-!music/README.txt
+# Music folder contents - keep sample music
+# The sample music files in the music folder are included for demo purposes
 
 # System files
 .DS_Store
