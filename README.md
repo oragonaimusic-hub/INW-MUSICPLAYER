@@ -14,9 +14,19 @@ A beautiful, feature-rich web-based music player with a modern interface. Play y
 - 🔀 **Shuffle & Repeat**: Randomize playback or loop tracks
 - 📱 **Responsive Design**: Works on desktop and mobile devices
 
+## 🌐 Live Demo
+
+**Try it now:** [https://oragonaimusic-hub.github.io/INW-MUSICPLAYER/](https://oragonaimusic-hub.github.io/INW-MUSICPLAYER/)
+
+No installation needed! Just click the link and enjoy the music player with sample tracks.
+
 ## Quick Start
 
-### Option 1: Simple Web Server (Recommended)
+### Option 1: Use Online (Easiest!)
+
+Simply visit the live demo link above - no setup required!
+
+### Option 2: Run Locally
 
 1. **Clone the repository:**
    ```bash
@@ -40,7 +50,7 @@ A beautiful, feature-rich web-based music player with a modern interface. Play y
 3. **Open in browser:**
    - Navigate to `http://localhost:8080/index.html`
 
-### Option 2: Direct File Opening
+### Option 3: Direct File Opening
 
 Simply open `index.html` in your web browser. Note: Some browsers may restrict local file access, so using a local server is recommended.
 
