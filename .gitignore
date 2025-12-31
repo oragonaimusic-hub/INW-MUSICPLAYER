@@ -1,0 +1,27 @@
+# Music files (users should add their own)
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.ogg
+
+# Keep the music folder but not its contents
+!music/README.txt
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
